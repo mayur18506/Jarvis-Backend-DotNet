@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "+r5AD0f0yu8=",
+  "success": true,
+  "projectFilePath": "D:\\JarvisBackend\\JarvisBackend\\JarvisBackend.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Mayur Piprewar\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.12\\microsoft.aspnetcore.openapi.10.0.12.nupkg.sha512",
+    "C:\\Users\\Mayur Piprewar\\.nuget\\packages\\microsoft.openapi\\2.12.0\\microsoft.openapi.2.12.0.nupkg.sha512"
+  ],
+  "logs": []
+}
